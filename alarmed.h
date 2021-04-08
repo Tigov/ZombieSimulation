@@ -11,7 +11,7 @@
 
 //This class represents an alarmed citizen and is a derived class of citizens.
 // It defines how an alarmed citizen will interact with ignorant citizens and stores
-// the current locatino and state fo the citizen
+// the current location and state of the citizen
 class Alarmed : public Citizen {
 public:
     //Alarmed constructor
