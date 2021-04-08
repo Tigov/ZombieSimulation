@@ -7,7 +7,7 @@ Video example output link with graphs: https://youtu.be/N5f8yZJCBCk
 
 The Standard rate was 50% for all variables.
 High Move had a standard rate for everything but the move probablilty was much higher, 80%.
-Ignorance is bliss was a standard rate for everything but the probablilty a ignorant citizen would get infected was super low, 15%.
+Ignorance is bliss was a standard rate for everything but the probablilty a ignorant citizen would get infected was low, 15%.
 
 
     
