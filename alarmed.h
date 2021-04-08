@@ -9,7 +9,7 @@
 #ifndef ALARMED_H
 #define ALARMED_H
 
-//This class represents an alarmed citizen and is a derived calss of citizens.
+//This class represents an alarmed citizen and is a derived class of citizens.
 // It defines how an alarmed citizen will interact with ignorant citizens and stores
 // the current locatino and state fo the citizen
 class Alarmed : public Citizen {
